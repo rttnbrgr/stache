@@ -15,7 +15,7 @@
 [clubmate]: http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/#Block_Element_Modifier_BEM
 [csswizardry]: https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 [rightfontapp]: https://rightfontapp.com/
-[heddels]: https://www.heddels.com/2015/10/welcome-heddels-long-rawr-denim/
+
 [format]: https://www.format.com/magazine/features/design/jaime-derringer-designmilk?utm_campaign=af475c38cf-formatmag_newsletter_2015_12_21&utm_medium=email&utm_source=Format+Magazine&utm_term=0_aebd9a4403-af475c38cf-99789925
 [format 2]: https://www.format.com/magazine/guides/build-the-perfect-portfolio-design?utm_source=Format+Magazine&utm_campaign=af475c38cf-formatmag_newsletter_2015_12_21&utm_medium=email&utm_term=0_aebd9a4403-af475c38cf-99789925
 [gadgetsin]: http://gadgetsin.com/traditional-mexican-skull-star-wars-characters-by-jose-pulido.htm
@@ -70,8 +70,7 @@
 [css-tricks]: https://css-tricks.com/conditional-media-query-mixins/
 [design]: https://design.google/library/tooling/
 [github]: https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance
-[heddels]: https://www.heddels.com/2011/03/how-to-wash-and-clean-your-raw-denim-tips-instructions-video/
-[heddels 2]: https://www.heddels.com/2012/09/the-samurai-jeans-co-guide-to-washing-raw-jeans/
+
 [lovelypackage]: http://lovelypackage.com/page/2/?s=hot+sauce
 [material]: https://material.io/design/color/#color-color-palette
 [materializecss]: https://materializecss.com/color.html
@@ -475,17 +474,5 @@ _neon_
 [pinterest]: https://www.pinterest.com/pin/382102349622334837/
 [tutsplus]: https://design.tutsplus.com/tutorials/how-to-create-a-realistic-neon-light-text-effect-in-adobe-photoshop--cms-23250
 [youtube]: https://www.youtube.com/user/ForeverDansky/search?query=neon
-
-_diy dennim_
-[youtube]: https://www.youtube.com/results?search_query=diy+men+cut+off+shorts
-[youtube 2]: https://www.youtube.com/watch?v=DUbZP3me2aY
-[youtube 3]: https://www.youtube.com/watch?v=shJ1SkJuXmQ
-[youtube 4]: https://www.youtube.com/watch?v=HArjdkFQCwM
-[youtube 5]: https://www.youtube.com/watch?v=VCGjpXjrwfw
-[youtube 6]: https://www.youtube.com/watch?v=KffpeweaY7M
-
-
-okay. we are down to zero on the personal machine. so not its time to organize the relevant.
-
 
 
