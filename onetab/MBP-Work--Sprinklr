@@ -1,3 +1,126 @@
+http://localhost:8000/ | Gatsby Default Starter
+http://localhost:8000/___graphql?query=query%20PostArchive%20%7B%0A%20%20%20%20allMarkdownRemark(%0A%20%20%20%20%20%20limit%3A%2010%0A%20%20%20%20%20%20sort%3A%20%7B%20order%3A%20DESC%2C%20fields%3A%20%5Bfrontmatter___date%5D%20%7D%0A%20%20%20%20)%20%7B%0A%20%20%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20%20%20excerpt%0A%20%20%20%20%20%20%20%20%20%20frontmatter%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20date%0A%20%20%20%20%20%20%20%20%20%20%20%20title%0A%20%20%20%20%20%20%20%20%20%20%20%20slug%0A%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D&operationName=PostArchive | GraphiQL
+https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/?=styled | gatsby-plugin-styled-components | GatsbyJS
+https://app.graphcms.com/7275651752f649f9868624ff273e8ae0/master/schema/models | GraphCMS
+https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 | https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1
+https://prod-gitlab.sprinklr.com/
+
+https://docs.google.com/document/d/1A0JR9BOfiUyuJCMB_sbmuNOACDJJ_8_nVXsPwc7M5wM/edit | Engineering Website - Google Docs
+
+https://flimp.me/Sprinklr-OpenEnrollment-2019 | eVideo Message Viewer
+https://workforcenow.adp.com/public/logout_en.htm | Portal Logout
+https://www.empireblue.com/ | New York Health Insurance, Medicare, & Group Health Plans | Empire Blue
+
+https://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/ | The ultimate guide to information architecture | Webdesigner Depot
+https://www.asis.org/Bulletin/Aug-10/AugSep10_Brown.pdf | Layout 1
+
+https://www.gallupstrengthscenter.com/dashboard/en-us/csf | Dashboard | Gallup
+https://gx.gallup.com/services/pdf?v=pdfGeneration.prince.7.0.binPath | Strengths Insight Report - Gallup Online
+https://docs.google.com/document/d/1AcuozbDSVi-SjXh_ZFfjV7-pYolplJB4OWNx1qM1CwU/edit#heading=h.3znysh7 | Strengthsfinder and Building Your Sprinkl2Grow Learning Plan Workbook - Google Docs
+https://docs.google.com/document/d/1XdWLa1wDJZOqvzWQAnVDxNTX7wx8Qk9cR2RfHh1velY/edit | (Nathan) Strengthsfinder and Building Your Sprinkl2Grow Learning Plan Workbook - Google Docs
+
+http://principleformac.com/docs.html#import | Principle - Documentation
+
+https://twitter.com/pablostanley | (2) Pablo Stanley (@pablostanley) | Twitter
+https://www.pablostanley.com/ | Pablo Stanley Portfolio
+https://thedesignteam.io/ | The Design Team
+
+https://www.invisionapp.com/design-system-manager/learn/why-do-i-need-dsm | 404: Page Not Found
+https://www.twitch.tv/jordanscast | jordanscast - Twitch
+
+https://designsystemsrepo.com/tools/documentation/ | Tools | Design Systems Repo
+
+https://untitled-team-975zn.zeroheight.com/styleguide/s/2856/p/27915 | Colors · Untitled · zeroheight
+https://www.producthunt.com/posts/zeroheight-3-0 | Design Systems by UXPin - Automatic design consistency + documentation | Product Hunt
+https://medium.com/zeroheight/zeroheight-3-0-b6643c347596?ref=producthunt | zeroheight 3.0 – zeroheight – Medium
+
+https://projects.invisionapp.com/dsm/nathan-test/space-test/folder/icons/5be215cc73b2950010e9182e | Space Test - NathanTest - DSM
+https://support.invisionapp.com/hc/en-us/articles/115005685166-Introduction-to-Design-System-Manager | Introduction to Design System Manager – InVision Support
+https://support.invisionapp.com/hc/en-us/articles/115005756926 | Walkthrough of the UI for DSM – InVision Support
+https://support.invisionapp.com/hc/en-us/articles/115005674286-What-does-Design-System-Manager-cost- | What are the differences in the DSM plans? – InVision Support
+
+https://www.invisionapp.com/inside-design/announcing-invision-design-system-manager/ | Introducing Design System Manager + Brand.ai is joining InVision
+https://www.invisionapp.com/inside-design/category/design/ | Design | Inside Design Blog
+
+https://www.theverge.com/2018/10/28/18025094/netflix-amazon-prime-hbo-now-new-movies-tv-shows-november-2018-house-of-cards | Everything coming to Netflix, Amazon Prime, and HBO Now in November - The Verge
+https://duckduckgo.com/?q=monoline+font+%2B+behance&atb=v26-7_j&ia=web | monoline font + behance at DuckDuckGo
+https://befonts.com/authentic-monoline-script-font.html | Authentic Monoline Script Font - Befonts.com
+https://www.behance.net/gallery/58765025/GARMENT-DISTRICT-FREE-MONOLINE-FONT | GARMENT DISTRICT - FREE MONOLINE FONT on Behance
+
+https://mail.google.com/mail/u/0/#inbox | Inbox (3) - nathan.rothenberger@sprinklr.com - Sprinklr Mail
+https://www.invisionapp.com/inside-design/announcing-invision-design-system-manager/ | Introducing Design System Manager + Brand.ai is joining InVision
+https://support.goabstract.com/hc/en-us/requests/18839?page=1 | New files deleted on update from master – Abstract
+https://www.oregonlive.com/expo/life-and-culture/erry-2018/07/51004d7c0c8464/portlands-40-best-restaurants.html | Portland's 40 best restaurants | OregonLive.com
+https://www.wweek.com/restaurants/2018/10/30/the-top-five-places-to-eat-this-week-14/ | The Top Five Places to Eat This Week - Willamette Week
+http://gstationdiner.com/menu/ | Menu | G Station
+https://www.wweek.com/best-of-portland-2017/ | Willamette Week — Best of Portland 2017 - Willamette Week
+http://www.andinarestaurant.com/food/ | Food | Andina Restaurant
+
+https://app.goabstract.com/projects/8066a720-9be4-11e8-a4a0-230a7a09f907/branches/master/commits/c13f331c7247f147e9b65aea458c998b65ff9d21 | Master - Merged "Added day view"
+https://support.goabstract.com/hc/en-us/requests/18839 | New files deleted on update from master – Abstract
+
+https://medium.com/inloopx/3-quick-tips-on-how-to-reduce-sketch-filesize-beb75acdc9e3 | 3 quick tips on how to reduce Sketch filesize – INLOOPX – Medium
+https://medium.com/sketch-app-sources/minimize-sketch-files-to-a-minimum-with-6-simple-steps-and-awesome-tools-3e525a56f2e4 | Minimize Sketch files to a MINIMUM! with 6 simple steps and awesome tools
+https://flawlessapp.io/reduceapp | Reduce App
+https://github.com/turbobabr/sketch-devtools | GitHub - turbobabr/sketch-devtools: A set of tools for Sketch App plugins developers
+
+http://principleformac.com/docs.html#drivers | Principle - Documentation
+https://www.youtube.com/playlist?list=PLWlUJU11tp4deQOnSFNn_ekpS9GA5_7yP | Principle App Crash Course - YouTube
+https://spectrum.chat/abstract?thread=0361bb04-1694-46a9-bffc-64eb327b567c | 👉🏾 Need Support? Look Here 👈 · Abstract
+https://support.goabstract.com/hc/en-us?return_to=%2Fhc%2Frequests | Abstract
+https://support.goabstract.com/hc/en-us/categories/360000966212-Using-Abstract | Using Abstract – Abstract
+https://mail.google.com/mail/u/0/#search/goabstract | Search results - nathan.rothenberger@sprinklr.com - Sprinklr Mail
+https://www.google.com/search?hl=en&q=goabstract%20%2B%20diverged%20branch | goabstract + diverged branch - Google Search
+https://support.goabstract.com/hc/en-us/articles/360001409991-The-Abstract-Design-Workflow | The Abstract Design Workflow – Abstract
+https://blog.prototypr.io/the-definitive-design-workflow-abstract-app-611b86d7649b | The definitive design workflow: Abstract app – Prototypr
+https://spectrum.chat/abstract | Abstract
+
+https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ss=1&scc=1&authuser=0&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin | Gmail
+https://www.sketchapp.com/updates/ | Sketch - Updates
+https://blog.sketchapp.com/dark-mode-data-a-brand-new-look-and-more-in-sketch-52-e462c8a64d00 | Dark Mode, Data, a brand new look and more in Sketch 52.
+https://www.google.com/search?hl=en&q=sketch%2052%20downgrade%20to%2051 | sketch 52 downgrade to 51 - Google Search
+https://www.reddit.com/r/sketchapp/comments/9kqtrd/sketch_52_released/ | Sketch 52 Released : sketchapp
+
+https://github.com/styled-components/vscode-styled-components | styled-components/vscode-styled-components: Syntax highlighting for styled-components
+https://www.google.com/search?q=abstract+sketch+missing+symbols+%2B+spectrum+site:spectrum.chat&hl=en&sa=X&ved=2ahUKEwiDi42A4dTdAhVjGjQIHSYPCPoQrQIoBDAAegQICRAL&biw=1280&bih=1303 | abstract sketch missing symbols + spectrum site:spectrum.chat - Google Search
+https://spectrum.chat/abstract | Abstract
+https://app.goabstract.com/organizations/2e406732-73b7-4fde-a1c9-776a51319ace/people | Sprinklr Design - People
+https://support.goabstract.com/hc/en-us/articles/360001125572-Virtual-pages | Virtual pages – Abstract
+https://medium.com/mobgen/interaction-flow-kit-75a8876a3a4 | Interaction Flow Kit for Sketch — Free Download – MOBGEN - Part of Accenture Interactive – Medium
+https://medium.com/sketch-app-sources/sketch-workflow-atomic-symbols-2b3c67babf08 | Sketch Workflow — Atomic Symbols – Design + Sketch – Medium
+https://medium.com/ux-power-tools/sketch-libraries-how-they-work-and-the-crazy-stuff-you-can-do-with-them-fc10f142ac80 | Sketch Libraries: How they work, and the crazy stuff you can do with them
+https://sketchflowkit.com/ | Flowkit for Sketch
+
+https://framer.com/docs/components#code | Framer - Docs
+https://twitter.com/lintonye/status/1025492541213356032 | Linton Ye on Twitter: "Confirmed that styled-components works in Framer X. The cool thing is that you can copy&paste existing CSS directly into the component and get it rendered on the canvas/preview without changing anything!… https://t.co/KzckJSw9cu"
+https://duckduckgo.com/?q=framer+x+%2B+styled-components&atb=v26-7_j&ia=web | DuckDuckGo — Privacy, simplified.
+https://medium.com/@PavelLaptev/framer-x-beta-overview-and-examples-58dba80a6865 | Framer X Beta overview and examples – Pavel Laptev – Medium
+
+https://tympanus.net/Development/StackMotionHoverEffects/# | Stack Motion Hover Effects | Codrops
+https://codepen.io/tayox/pen/QVJamg?editors=1100 | Stacked Cards Hover Effects // stack
+
+https://codesandbox.io/s/w23pyl7388 | w23pyl7388 - CodeSandbox
+https://codesandbox.io/dashboard/sandboxes | Dashboard - CodeSandbox
+https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 | https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1
+https://date-fns.org/v1.29.0/docs/isBefore | date-fns - modern JavaScript date utility library
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort | Array.prototype.sort() - JavaScript | MDN
+
+http://www.uifaces.com/ | User Inter Faces
+https://picsum.photos/ | Lorem Picsum
+http://wmira.github.io/react-icons-kit/#/iconset/md | React Icons Kit
+https://www.styled-components.com/docs/api | styled-components: API Reference
+http://localhost:1234/ | Lets React
+
+https://codesandbox.io/s/9jmolyo7nr | Lets React - CodeSandbox
+https://codesandbox.io/docs/configuration | Configuration - CodeSandbox
+https://codesandbox.io/s/jjlx92zmzy | jjlx92zmzy - CodeSandbox
+https://parceljs.org/assets.html | 📦 Assets
+
+https://display-api.postano.com/ | Display API
+https://documenter.getpostman.com/view/1542594/7Lubf59#03d18be5-9a14-a9ce-a526-30251fdf99e6 | Sprinklr API
+https://space.sprinklr.com/new | Sprinklr
+https://space.sprinklr.com/social/campaigns/detail/5547_538/planner/asset/campaign/5547_538/view/month?currentDate=1525214400000 | Sprinklr / Campaigns
+
 https://medium.com/sketch-app-sources/designing-with-meaningful-data-5456b40e172e | Designing with Meaningful Data – Design + Sketch – Medium
 https://github.com/preciousforever/data-populator | GitHub - preciousforever/data-populator: A plugin for Sketch (and soon Adobe XD!) to populate your design documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 https://github.com/preciousforever/data-populator/issues?page=2&q=is%3Aissue&utf8=%E2%9C%93 | Issues · preciousforever/data-populator · GitHub
