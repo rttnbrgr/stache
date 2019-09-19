@@ -1,3 +1,251 @@
+https://duckduckgo.com/?q=global+entry&ia=web | global entry at DuckDuckGo
+https://www.cbp.gov/travel/trusted-traveler-programs/global-entry | Global Entry | U.S. Customs and Border Protection
+https://www.delta.com/us/en/check-in-security/expedited-airport-security/global-entry | Global Entry Program Benefits & Locations : Delta Air Lines
+https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/how-apply | How to Apply for Global Entry | U.S. Customs and Border Protection
+https://duckduckgo.com/?q=clear+vs+tsa+pre&ia=web | clear vs tsa pre at DuckDuckGo
+http://flyclear.com/clear-versus-tsa-precheck-versus-global-entry/ | CLEAR vs. TSA PreCheck vs. Global Entry - What's the Difference?
+
+https://stackoverflow.com/questions/9348326/regex-find-word-in-the-string | Regex find word in the string - Stack Overflow
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://github.com/facebook/react/issues/3386 | How to replace parts of a string with a component? · Issue #3386 · facebook/react
+https://github.com/EfogDev/react-process-string | EfogDev/react-process-string: A library to process strings with regular expressions.
+https://github.com/iansinnott/react-string-replace | iansinnott/react-string-replace: A simple way to safely do string replacement with React components
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp | RegExp - JavaScript | MDN
+https://stackoverflow.com/questions/43390873/template-literal-inside-of-the-regex?noredirect=1&lq=1 | javascript - Template literal inside of the RegEx - Stack Overflow
+https://www.google.com/search?hl=en&q=Template%20literal%20inside%20of%20the%20RegEx | Template literal inside of the RegEx - Google Search
+https://ponyfoo.com/articles/regular-expressions-post-es6 | Regular Expressions in a post-ES6 world
+
+https://www.youtube.com/watch?v=rO5dBA-avfw | Design Systems, Pattern Libraries & Style Guides... Oh My! - YouTube
+https://www.youtube.com/results?search_query=design+sketch+design+system | design sketch design system - YouTube
+https://www.youtube.com/watch?v=o6OgIkEjaJI&list=PLuGpMawKEhfaicYZHb4VME-IoLtg8gtew | Design Systems, part 1: Art-boards and grids - YouTube
+
+https://www.mindtheproduct.com/2013/07/using-the-kano-model-to-prioritize-product-development/ | Using The Kano Model To Prioritize Product Development - Mind the Product
+https://www.youtube.com/watch?v=iuOrEIBVQX4&amp=&t= | YouTube
+
+https://www.aaronmchugh.com/finding-your-one-true-authentic-swing/?ck_subscriber_id=202503327 | Bagger Vance and finding your one true authentic swing - Aaron McHugh
+https://www.fastcompany.com/90396576/these-are-the-times-when-thinking-about-the-future-is-unproductive?ck_subscriber_id=202503327 | This is when thinking about the future is unproductive
+https://www.theatlantic.com/health/archive/2012/02/a-brief-history-of-the-to-do-list-and-the-psychology-of-its-success/252826/?ck_subscriber_id=202503327 | A Brief History of the To-Do List and the Psychology of Its Success - The Atlantic
+https://www.macsparky.com/blog/2019/8/recovery-day?ck_subscriber_id=202503327 | Recovery Day — MacSparky
+https://www.businessinsider.com/hall-rosbash-young-nobel-prize-physiology-medicine-circadian-clock-2017-10?ck_subscriber_id=202503327 | Nobel Prize: Scientists win for discovery of body clock regulation - Business Insider
+https://www.inc.com/nate-klemp/want-to-take-your-time-management-to-next-level-try-out-mega-day.html?ck_subscriber_id=202503327 | Want to Take Your Time Management to the Next Level? Try Out the 'Mega Day' | Inc.com
+https://www.bbc.com/worklife/article/20190116-why-you-should-exercise-during-the-workday---and-how?ck_subscriber_id=202503327 | How to exercise during the workday (and why it's important) - BBC Worklife
+https://membership.thenib.com/fundraiser | The Nib's Summer Fundraiser — The Inkwell Membership
+https://duckduckgo.com/?q=Steven+pressfield&ia=web | Steven pressfield at DuckDuckGo
+
+https://www.shalomyallpdx.com/contact-us | General Info & Contact — Shalom Y'all
+
+https://koto.studio/ | Koto – Understanding the essence of brand. We make things come alive.
+
+https://github.com/garetmckinley/gatsby-remark-embed-soundcloud/blob/master/src/index.js | gatsby-remark-embed-soundcloud/index.js at master · garetmckinley/gatsby-remark-embed-soundcloud
+
+https://www.gatsbyjs.org/packages/gatsby-transformer-remark/?=markdown | gatsby-transformer-remark | GatsbyJS
+https://www.gatsbyjs.org/docs/remark-plugin-tutorial/ | Remark Plugin Tutorial | GatsbyJS
+https://github.com/gatsbyjs/gatsby-starter-blog/blob/master/gatsby-node.js | gatsby-starter-blog/gatsby-node.js at master · gatsbyjs/gatsby-starter-blog
+http://localhost:8000/track1 | localhost:8000/track1
+http://localhost:8000/___graphql?query=query%20MyQuery%20%7B%0A%20%20site%20%7B%0A%20%20%20%20siteMetadata%20%7B%0A%20%20%20%20%20%20author%0A%20%20%20%20%20%20description%0A%20%20%20%20%20%20siteUrl%0A%20%20%20%20%20%20title%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20allMarkdownRemark%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20html%0A%20%20%20%20%20%20%20%20fields%20%7B%0A%20%20%20%20%20%20%20%20%20%20slug%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20markdownRemark(fields%3A%20%7Bslug%3A%20%7Beq%3A%20%22%22%7D%7D)%20%7B%0A%20%20%20%20fields%20%7B%0A%20%20%20%20%20%20slug%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A | GraphiQL
+https://github.com/rttnbrgr/gatsby-theme-soundcloud-single/pull/2 | Test soundcloud remark by rttnbrgr · Pull Request #2 · rttnbrgr/gatsby-theme-soundcloud-single
+
+https://www.gatsbyjs.org/docs/theme-api/ | Themes API Reference | GatsbyJS
+https://words.garet.io/gatsby-remark-embed-soundcloud/ | My first Gatsby plugin: gatsby-remark-embed-soundcloud
+https://github.com/garetmckinley/words.garet.io/blob/master/gatsby-node.js | words.garet.io/gatsby-node.js at master · garetmckinley/words.garet.io
+https://using-remark.gatsbyjs.org/responsive-images-and-iframes/ | https://using-remark.gatsbyjs.org/responsive-images-and-iframes/
+https://github.com/jlengstorf/gatsby-theme-jam-example/blob/master/theme/package.json | gatsby-theme-jam-example/package.json at master · jlengstorf/gatsby-theme-jam-example
+https://github.com/gatsbyjs/gatsby-starter-hello-world/blob/master/package.json | gatsby-starter-hello-world/package.json at master · gatsbyjs/gatsby-starter-hello-world
+https://www.youtube.com/watch?v=W2uTfay3doo&t=1018s | Building your first Gatsby theme (with Emma Wedekind) — Learn With Jason - YouTube
+
+https://www.youtube.com/watch?v=wXLf18DsV-I&t=854s | 90% Cleaner React With Hooks - Ryan Florence - React Conf 2018 - YouTube
+https://github.com/dogfessional/react-swipeable | dogfessional/react-swipeable: React swipe event handler component & hook
+https://codesandbox.io/s/lrk6955l79?from-embed | react-swipeable hook image carousel - CodeSandbox
+http://localhost:8000/ | sprinklr | design
+
+https://www.youtube.com/results?search_query=notion | notion - YouTube
+https://www.youtube.com/watch?v=_zEItBna0zI | How We Use Notion | The Futur Edition | A Chat with Matthew Encina - YouTube
+https://www.youtube.com/watch?v=wtBSAwPSjoU&list=PLkoc9YGDeNzbNHk2G78is5253QO1zdKGw&index=1 | How I Use Notion ● June 2019 - YouTube
+https://www.youtube.com/watch?v=66fN1cZadPA | Your First Day with Notion | A Beginner's Guide - YouTube
+
+https://www.youtube.com/watch?v=fX995xcQJpY | Flipping Through my Full Sketchbook #2! (tour) - YouTube
+https://toonboxstudio.com/p/how-to-draw-cartoon-cats | How to Draw Cartoon Cats | ToonBoxStudio
+
+https://www.gatsbyjs.org/blog/2019-07-03-customizing-styles-in-gatsby-themes-with-theme-ui/ | Customizing Styles in Gatsby Themes with Theme UI | GatsbyJS
+https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/ | gatsby-starter-blog: Gatsby Starter | GatsbyJS
+https://github.com/gatsbyjs/gatsby-starter-notes-theme | gatsbyjs/gatsby-starter-notes-theme: Starter for using the official gatsby notes theme
+https://github.com/gatsbyjs/gatsby/blob/master/themes/gatsby-theme-notes/src/components/layout.js | gatsby/layout.js at master · gatsbyjs/gatsby
+
+https://grovemade.com/pen-and-pen-stand/?utm_campaign=GMP0123B%20Pen%20Teaser%20B%20Aug2019&utm_source=hs_email&utm_medium=email&utm_content=76260355&_hsenc=p2ANqtz-_za3rKN1MZxACIICfR5n62L2PF0-5tlXcgxKyJ6CN2xCTNzFNloczIxVd3DIbLE_Z5K8j83MMpBRDAnD6VQ_0khb6BZg&_hsmi=76260355 | Pen and Pen Stand | Grovemade
+https://www.gitguardian.com/ | GitGuardian
+https://gedd.ski/post/state-machines-in-react/ | State Machines in React | Geddski
+https://blog.bitsrc.io/ | Bits and Pieces
+
+https://www.gatsbyjs.org/docs/theme-api/ | Themes API Reference | GatsbyJS
+https://words.garet.io/gatsby-remark-embed-soundcloud/ | My first Gatsby plugin: gatsby-remark-embed-soundcloud
+https://www.gatsbyjs.org/packages/gatsby-remark-embed-soundcloud/?=soundcloud | gatsby-remark-embed-soundcloud | GatsbyJS
+https://www.google.com/search?hl=en&q=how%20to%20style%20an%20iframe%20in%20gatsby | how to style an iframe in gatsby - Google Search
+https://markoskon.com/gatsby-plugins-markdown/ | Essential Gatsby plugins. Part 2, Markdown | Dev Diary
+
+https://www.gatsbyjs.org/blog/2019-07-03-customizing-styles-in-gatsby-themes-with-theme-ui/ | Customizing Styles in Gatsby Themes with Theme UI | GatsbyJS
+https://tomcritchlow.com/2019/02/17/building-digital-garden/ | Building a digital garden
+
+https://github.com/gatsbyjs/gatsby/blob/master/themes/gatsby-theme-blog/src/components/header.js | gatsby/header.js at master · gatsbyjs/gatsby
+https://github.com/gatsbyjs/gatsby/blob/master/themes/gatsby-theme-blog/src/components/switch.js | gatsby/switch.js at master · gatsbyjs/gatsby
+http://localhost:8001/my-second-post | My Second Post! (example) | Kamp Blognaw
+
+https://github.com/gatsbyjs/gatsby-starter-theme-workspace/tree/master/example | gatsby-starter-theme-workspace/example at master · gatsbyjs/gatsby-starter-theme-workspace
+https://github.com/gatsbyjs | Gatsby
+https://www.youtube.com/watch?v=W2uTfay3doo | Building your first Gatsby theme (with Emma Wedekind) — Learn With Jason - YouTube
+https://github.com/rttnbrgr/gatsby-theme-soundcloud-single | rttnbrgr/gatsby-theme-soundcloud-single
+
+https://mail.google.com/mail/u/0/#inbox | Inbox (19) - nroth10@gmail.com - Gmail
+https://thefocuscourse.com/courses/focus-41/ | Day 41 — The Focus Course
+
+https://apps.apple.com/us/app/contact-cleanup/id717884032 | ‎Contact Cleanup on the App Store
+https://brettterpstra.com/search/?q=contacts | Search - BrettTerpstra.com
+https://www.macstories.net/reviews/cardhop-by-flexibits-takes-on-contacts/ | Cardhop by Flexibits Takes on Contacts - MacStories
+https://flexibits.com/cardhop/videos | Flexibits | Cardhop for Mac | Videos
+https://workona.com/ | Workona | Browse like it's your job
+
+https://manage.sanity.io/projects/s5tb7vrt/plan/changePlan | Sanity - Dashboard - Projects
+http://localhost:3333/desk/stubPage;97de8f15-c9eb-4d42-8a55-39ac69cf0646 | Sprinklr Design – Sanity
+https://www.sanity.io/docs/schema-types/slug-type | Slug
+https://www.sanity.io/docs/what-you-need-to-know-about-block-text/presenting-block-text | Presenting Portable Text
+https://www.gatsbyjs.com/docs/sanity/getting-started/#setting-up-a-sanity-and-gatsby-site | Getting started with Gatsby Preview and Sanity.io | Gatsby Inc.
+https://www.gatsbyjs.org/docs/sourcing-from-sanity/#generating-pages | Sourcing from Sanity | GatsbyJS
+https://github.com/sanity-io/example-company-website-gatsby-sanity-combo/blob/master/studio/schemas/blockContent.js | example-company-website-gatsby-sanity-combo/blockContent.js at master · sanity-io/example-company-website-gatsby-sanity-combo
+https://www.gatsbyjs.org/docs/sourcing-from-sanity/ | Sourcing from Sanity | GatsbyJS
+https://www.gatsbyjs.org/docs/actions/#createPage | Actions | GatsbyJS
+
+https://passive-income-for-designers.getlearnworlds.com/path-player?courseid=passive-income-for-designers&unit=5d2ce8a5c1ba31e1768b45deUnit | Discover Your First Profitable Passive Income Idea
+https://passive-income-for-designers.getlearnworlds.com/path-player?courseid=passive-income-for-designers&unit=5d23d26bc1ba3141708b459aUnit | How to Find a Profitable Product Idea Worksheet
+https://twitter.com/home | Home / Twitter
+https://twitter.com/buildthatapp | Brian Voong (@buildthatapp) / Twitter
+https://craigmod.com/ridgeline/034/ | SW945: The Sound of a Walk in Japan — Ridgeline issue 034
+https://jacobinmag.com/2019/08/meek-mill-probation-free-meek-docuseries-criminal-justice | Meek Mill’s Case “Is Not About One Judge, One Courtroom”
+https://jacobinmag.com/store/issues | Purchase Issues
+https://twitter.com/jlengstorf/status/1166450288888180737 | Jason Lengstorf on Twitter: "Portland! To make it official, @kyleshevlin and I have switched over the newsletter for Food With Friends to use the new-and-improved name. 💜 If you’re not already on the list and would like to join us at future gatherings, sign up here! https://t.co/7xwKs5Vwri 🙌" / Twitter
+https://tinyletter.com/foodwithfriends | Food With Friends by Kyle Shevlin and Jason Lengstorf
+
+https://mail.google.com/mail/u/0/#label/%3A%3A+Passive-Income-Designers | ":: Passive-Income-Designers" (16) - nroth10@gmail.com - Gmail
+https://passive-income-for-designers.getlearnworlds.com/path-player?courseid=passive-income-for-designers&unit=5d2cda05c1ba311f088b457bUnit | The Art of Finding Profitable Ideas
+
+https://calendar.google.com/calendar/r/month | Google Calendar - August 2019
+https://github.com/joelmturner | joelmturner (Joel Turner)
+https://github.com/jlengstorf/gatsby-theme-jam-example/commit/b8068db70ba574479460afb10af683fd0662df07 | feat: example theme submission + docs · jlengstorf/gatsby-theme-jam-example@b8068db
+https://duckduckgo.com/?q=youtube+live+record&ia=web | youtube live record at DuckDuckGo
+
+https://duckduckgo.com/?q=fira+code&ia=software | fira code at DuckDuckGo
+https://github.com/tonsky/FiraCode | tonsky/FiraCode: Monospaced font with programming ligatures
+https://bboxtype.com/typefaces/FiraSans/#!layout=specimen | FiraSans - bBox Type
+
+https://developers.soundcloud.com/ | SoundCloud Developers
+https://twitter.com/SoundCloudDev | SoundCloud Devs (@SoundCloudDev) / Twitter
+https://developers.soundcloud.com/blog/playback-on-web-at-soundcloud | Backstage Blog - Playback on Web at SoundCloud - SoundCloud Developers
+https://developers.soundcloud.com/docs/api/guide#comments | HTTP API - Guide - SoundCloud Developers
+https://jobs.soundcloud.com/job?gh_jid=4255486002 | SoundCloud Jobs
+https://www.google.com/search?hl=en&q=gatsby%20theme%20soundcloud | gatsby theme soundcloud - Google Search
+https://github.com/jedidiah/gatsby-source-soundcloud | Jedidiah/gatsby-source-soundcloud: Gatsby source to fetch data from the SoundCloud API
+
+http://localhost:8000/ | sprinklr | design
+http://localhost:8000/___graphql?query=query%20MyQuery%20%7B%0A%20%20allSanityHomepageCta%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20title%0A%20%20%20%20%20%20%20%20headline%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20allSanityQuote%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20author%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20allSanityContentSection%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20title%0A%20%20%20%20%20%20%20%20copy%0A%20%20%20%20%20%20%20%20blocks%20%7B%0A%20%20%20%20%20%20%20%20%20%20title%0A%20%20%20%20%20%20%20%20%20%20copy%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A&operationName=MyQuery | GraphiQL
+https://www.amazon.com/s?k=purina+one+cat+food&tag=duc0c-20 | Amazon.com: purina one cat food
+
+https://theme-ui.com/sx-prop | The `sx` Prop – Theme UI
+https://www.google.com/search?hl=en&q=gatsby%20build%20site%20nav%20from%20pages | gatsby build site nav from pages - Google Search
+https://www.gatsbyjs.org/docs/routing/ | Routing | GatsbyJS
+https://www.gatsbyjs.org/docs/centralizing-your-sites-navigation/ | Centralizing your site's navigation | GatsbyJS
+https://www.gatsbyjs.org/blog/2018-09-27-reach-router/ | How we improved Gatsby's accessibility in v2 by switching to @reach/router | GatsbyJS
+https://github.com/gatsbyjs/gatsby/issues/9314 | Programmatic routing: Should I use Reach router's navigate() method, or is there a Gatsby-specific way? · Issue #9314 · gatsbyjs/gatsby
+https://www.gatsbyjs.org/docs/gatsby-link/ | Gatsby Link API | GatsbyJS
+https://reach.tech/router/example/url-params | Reach Router - Example - url-params
+http://localhost:8000/___graphql?query=query%20MyQuery%20%7B%0A%20%20allSitePage(filter%3A%20%7Bpath%3A%20%7Bglob%3A%20%22%2Fsystem%2F*%22%7D%7D)%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20component%0A%20%20%20%20%20%20%20%20path%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A | GraphiQL
+https://regexr.com/ | RegExr: Learn, Build, & Test RegEx
+https://reach.tech/router/api/Location | Reach Router - Location
+https://www.gatsbyjs.org/docs/migrating-from-v1-to-v2/ | Migrating from v1 to v2 | GatsbyJS
+https://stackoverflow.com/questions/537772/what-is-the-most-correct-regular-expression-for-a-unix-file-path#537833 | regex - What is the most correct regular expression for a UNIX file path? - Stack Overflow
+https://stackoverflow.com/questions/8376525/get-value-of-a-string-after-a-slash-in-javascript | substring - Get value of a string after a slash in JavaScript - Stack Overflow
+
+https://www.gatsbyjs.org/packages/gatsby-plugin-mdx/#extensions | gatsby-plugin-mdx | GatsbyJS
+https://www.gatsbyjs.org/docs/mdx/programmatically-creating-pages/ | Programmatically Creating Pages | GatsbyJS
+http://localhost:8000/docs/component-library | sprinklr | design
+https://www.google.com/search?hl=en&q=gatsby%20mdx%20layout%20%2B%20match%20site%20layout | gatsby mdx layout + match site layout - Google Search
+https://www.christopherbiscardi.com/post | Home | Chris Biscardi
+https://theme-ui.com/recipes/gatsby-link | Gatsby Link – Theme UI
+https://styled-system.com/responsive-styles#responsive-styles | Styled System
+http://localhost:8000/___graphql?query=query%20MyQuery%20%7B%0A%20%20allMdx(sort%3A%20%7Bfields%3A%20frontmatter___order%2C%20order%3A%20ASC%7D)%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20frontmatter%20%7B%0A%20%20%20%20%20%20%20%20%20%20order%0A%20%20%20%20%20%20%20%20%20%20title%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20fileAbsolutePath%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A | GraphiQL
+https://duckduckgo.com/?q=gatsby+%2B+pagequery+vs+static+query&ia=web | gatsby + pagequery vs static query at DuckDuckGo
+https://www.gatsbyjs.org/docs/static-query/ | Querying data in components using StaticQuery | GatsbyJS
+https://www.google.com/search?hl=en&q=theme%20ui%20%2B%20mdx%20link%20hover%20style | theme ui + mdx link hover style - Google Search
+https://dev.to/ekafyi/using-and-customizing-multiple-official-gatsby-themes-from-scratch-without-starter-sites-2441 | Using and customizing official Gatsby themes from scratch without starter sites - DEV Community 👩‍💻👨‍💻
+https://www.gatsbyjs.org/docs/gatsby-link/ | Gatsby Link API | GatsbyJS
+
+http://localhost:8001/button | localhost:8001/button
+https://github.com/jlengstorf/design-systems-mdx/commit/55e6255a581a26bd26babf7c4b6f4deadfd4bfb4 | feat: example as of the end of the stream · jlengstorf/design-systems-mdx@55e6255
+https://www.christopherbiscardi.com/post/codeblocks-mdx-and-mdx-utils/ | Codeblocks, MDX, and mdx-utils | Chris Biscardi
+https://www.christopherbiscardi.com/post/using-mdx-scope-in-react-live-scope/ | Using MDX scope in react-live scope | Chris Biscardi
+
+https://tateandyoko.com/collections/naked-and-famous-core/products/weird-guy-black-power-stretch?variant=13617054875722 | Weird Guy - Black Power Stretch | Naked & Famous Denim – Tate + Yoko
+https://tateandyoko.com/collections/sale | All Sale – Tate + Yoko
+
+https://www.youtube.com/results?search_query=learn+garageband+for+podcast | learn garageband for podcast - YouTube
+https://www.youtube.com/watch?v=zuQKUyqcdcA | Beginners Guide to Podcasting (How to Podcast in 2019) - YouTube
+https://courses.smartpassiveincome.com/p/power-up-podcasting | Power-Up Podcasting | Pat Flynn
+https://www.youtube.com/watch?v=PIJpOcFf5h4&list=PLzJ1r4EGn-eksdBA9rzmviJlzpaOF3TBp | How to Start a Podcast (2019 Tutorial) 🎤 Equipment & Software - YouTube
+https://www.youtube.com/watch?v=smqfeBIMMqY&list=PLzJ1r4EGn-emcG4OEgzwrNvd-Nk8Grdk- | 10 Lessons I Learned Inventing Something New (SwitchPod From the Start) - YouTube
+https://www.youtube.com/playlist?list=PLzJ1r4EGn-eksdBA9rzmviJlzpaOF3TBp | How to Start a Podcast (in 2019) - YouTube
+
+http://localhost:8000/ | sprinklr | design
+http://localhost:8000/___graphql?query=query%20MyQuery%20%7B%0A%20%20allMarkdownRemark%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20frontmatter%20%7B%0A%20%20%20%20%20%20%20%20%20%20title%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20html%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A | GraphiQL
+https://theme-ui.com/gatsby-plugin/ | Theme UI
+https://github.com/system-ui/theme-ui | system-ui/theme-ui: Build consistent, themeable React UIs based on design system constraints and design tokens
+https://emotion.sh/docs/styled | Emotion - Styled Components
+
+https://nehalist.io/creating-a-reading-progress-bar-in-react/ | Creating a reading progress bar in React
+
+http://react-component.github.io/switch/examples/simple.html | simple.js - example - rc-switch@1.9.0
+
+https://www.gatsbyjs.org/blog/2019-07-03-customizing-styles-in-gatsby-themes-with-theme-ui/#reach-skip-nav | Customizing Styles in Gatsby Themes with Theme UI | GatsbyJS
+https://tomcritchlow.com/wiki/notebooks/ | Tom Critchlow. Move. Think. Create.
+
+https://www.gatsbyjs.org/docs/mdx/writing-pages/#exporting-page-metadata | Writing Pages in MDX | GatsbyJS
+https://www.gatsbyjs.org/packages/gatsby-source-filesystem/ | gatsby-source-filesystem | GatsbyJS
+https://github.com/gatsbyjs/gatsby/pull/16555 | fix(gatsby-plugin-mdx): Raise error if MDXRenderer receives undefined or null by johno · Pull Request #16555 · gatsbyjs/gatsby
+https://github.com/gatsbyjs/gatsby/issues/16357 | [gatsby-plugin-mdx] CMS Live Preview · Issue #16357 · gatsbyjs/gatsby
+https://raw.githubusercontent.com/hasura/graphql-engine/master/community/learn/graphql-tutorials/tutorials/react-apollo/tutorial-site/content/index.mdx | https://raw.githubusercontent.com/hasura/graphql-engine/master/community/learn/graphql-tutorials/tutorials/react-apollo/tutorial-site/content/index.mdx
+https://www.docz.site/docs/project-configuration#theming | Docz
+https://github.com/pedronauck/docz/tree/master/core/gatsby-theme-docz | docz/core/gatsby-theme-docz at master · pedronauck/docz
+https://github.com/prettier/prettier/issues/3183 | Markdown: make line wrapping an option · Issue #3183 · prettier/prettier
+https://mdxjs.com/getting-started/gatsby/ | MDX
+https://duckduckgo.com/?q=gatsby+plugin+mdx+%2B+graphql+html&ia=web | gatsby plugin mdx + graphql html at DuckDuckGo
+https://duckduckgo.com/?q=gatsby-plugin-mdx%3A+renderMdxBody+was+unavailable+when+rendering+html+This+is+a+bug&ia=web | gatsby-plugin-mdx: renderMdxBody was unavailable when rendering html This is a bug at DuckDuckGo
+https://www.rockyourcode.com/error-gatsby-mdx-render-mdx-body-was-unavailable-when-rendering-html | error gatsby-mdx: renderMdxBody was unavailable when rendering html. | rockyourcode
+https://github.com/ChristopherBiscardi/gatsby-mdx/issues/47 | how to access html output? · Issue #47 · ChristopherBiscardi/gatsby-mdx
+
+https://www.gatsbyjs.org/blog/2019-07-03-using-themes-for-distributed-docs/ | Using Themes for Distributed Docs | GatsbyJS
+https://www.google.com/search?hl=en&q=build%20docs%20with%20gatsby%20%2B%20mdx | build docs with gatsby + mdx - Google Search
+https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/ | Front-End Documentation, Style Guides and the Rise of MDX | CSS-Tricks
+https://reacttraining.com/blog/gatsby-mdx-blog/ | React Training: Blogging with Gatsby & MDX
+https://github.com/bradwestfall/gatsby-mdx-blog/blob/master/gatsby-node.js | gatsby-mdx-blog/gatsby-node.js at master · bradwestfall/gatsby-mdx-blog · GitHub
+https://www.gatsbyjs.org/packages/gatsby-plugin-mdx/#extensions | gatsby-plugin-mdx | GatsbyJS
+https://github.com/hasura/gatsby-gitbook-starter | GitHub - hasura/gatsby-gitbook-starter: Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
+https://github.com/gatsbyjs/gatsby-starter-default/tree/master/src/images | gatsby-starter-default/src/images at master · gatsbyjs/gatsby-starter-default · GitHub
+https://whoisryosuke.com/blog/2018/gatsby-documentation-starter/ | Generate documentation for any React project using GatsbyJS - Ryosuke
+https://reacttraining.com/blog/gatsby-mdx-blog/ | React Training: Blogging with Gatsby & MDX
+https://www.gatsbyjs.org/docs/mdx/ | Adding Components to Markdown with MDX | GatsbyJS
+https://github.com/ChristopherBiscardi/gatsby-starter-mdx-basic | ChristopherBiscardi/gatsby-starter-mdx-basic: A minimal gatsby-mdx starter that only tries to set up config to work in src/pages.
+https://mdxjs.com/blog/v1/ | MDX
+
+https://culture.basicagency.com/our-way | BASIC® | Culture Manual | An Employee Guide to Being More Basic
+https://ui.reach.tech/ | Reach UI
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://bulletjournal.com/pages/about | About - Bullet Journal
+https://www.instapaper.com/u | Instapaper
+
+https://www.forbes.com/sites/johnnyjet/2018/01/16/will-clear-or-tsa-precheck-make-your-travel-easier/#47a9ef607557 | Will CLEAR or TSA PreCheck Make Your Travel Easier?
+https://www.johnnyjet.com/finally-signed-clear/ | Why I Finally Signed Up for CLEAR - JohnnyJet.com
+https://www.clearme.com/where-we-are/ | Locations in airports and stadiums | CLEAR
+https://www.forbes.com/sites/forbes-finds/2018/03/02/tsa-precheck-vs-clear-reduce-security-time-at-airports/#42d40ade242f | TSA PreCheck Vs. CLEAR: Reduce Security Time At Airports
+https://www.tsa.gov/travel/security-screening/whatcanibring/all | What Can I Bring? | Transportation Security Administration
+https://universalenroll.dhs.gov/ | Universal Enrollment Services (UES)
+https://www.tsa.gov/precheck | TSA Pre✓® | Transportation Security Administration
+
 https://www.gatsbyjs.org/docs/emotion/ | Emotion | GatsbyJS
 https://github.com/netlify/netlify-cms/issues/1776 | [Feature Request] MDX Support · Issue #1776 · netlify/netlify-cms
 https://duckduckgo.com/?q=netlify+cms+%2B+mdx&ia=web | netlify cms + mdx at DuckDuckGo
